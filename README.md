@@ -2,7 +2,7 @@
 
 **`Junior Digital Craftsman (8bit web developer slowly progressing towards 64bit)`**
 
-I am a junior full-stack web developer building my own version of the digital world, one step at the time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With discipline and persistence on daily basis, I endlessly strive towards improving my current skills and new knowledge.
+I am a junior full-stack web developer building my own version of the digital world, one step at the time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With discipline and persistence on daily basis, I endlessly strive to hone my skills and learn new knowledge.
 
 ---
 
@@ -58,7 +58,7 @@ I am a junior full-stack web developer building my own version of the digital wo
 
 <details>
   <summary><h3>Current progress and journey</h3></summary>
-  Currently working on my personal project to learning NodeJS, MongoDB, Typescript, EJS and some other addons. After this finishing this project, next plan is to make a new project and learn React.
+  Currently working on my personal project learning NodeJS, MongoDB, Typescript, EJS and some other addons. After this finishing it, my next plan is to learn React on a new project.
 </details>
 
 #

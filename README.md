@@ -1,6 +1,6 @@
 # Dukelander
 
-**`Junior Digital Craftsman (8bit web developer slowly progressing towards 64bit)`**
+**`Junior Digital Craftsman (8bit web developer progressing towards 64bit)`**
 
 I am a junior full-stack web developer building my own version of the digital world, one step at the time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With discipline and persistence on daily basis, I endlessly strive to hone my skills and learn new knowledge.
 

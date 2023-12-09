@@ -8,6 +8,9 @@ I am a junior full-stack web developer building my own version of the digital wo
 
 ### My personal projects
 <p align="left">
+  <a href="https://github.com/astral-express/mooncloud-messages"><img width="378" src="https://github-readme-stats.vercel.app/api/pin?username=astral-express&repo=mooncloud-messagesp&theme=react&bg_color=1F222E&title_color=9c66ed&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="moonffee">   </a>
+</p>
+<p align="left">
   <a href="https://github.com/astral-express/moonffee-coffee-shop"><img width="378" src="https://github-readme-stats.vercel.app/api/pin?username=astral-express&repo=moonffee-coffee-shop&theme=react&bg_color=1F222E&title_color=9c66ed&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="moonffee">   </a>
 </p>
 

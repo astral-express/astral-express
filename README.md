@@ -8,7 +8,7 @@ I am a junior full-stack web developer building my own version of the digital wo
 
 ### My personal projects
 <p align="left">
-  <a href="https://github.com/moonlight-jpg/moonffee-coffee-shop"><img width="378" src="https://github-readme-stats.vercel.app/api/pin?username=dukelanderx&repo=moonffee-coffee-shop&theme=react&bg_color=1F222E&title_color=9c66ed&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="moonffee">   </a>
+  <a href="https://github.com/moonlight-jpg/moonffee-coffee-shop"><img width="378" src="https://github-readme-stats.vercel.app/api/pin?username=moonlight-jpg&repo=moonffee-coffee-shop&theme=react&bg_color=1F222E&title_color=9c66ed&hide_border=true&icon_color=F8D866&show_icons=false&show_description=false" alt="moonffee">   </a>
 </p>
 
 #

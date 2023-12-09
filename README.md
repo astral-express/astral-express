@@ -1,4 +1,4 @@
-# It is me
+# About me
 
 **`Junior Digital Craftsman (8bit web developer progressing towards 64bit)`**
 

@@ -61,7 +61,7 @@ I am a junior full-stack web developer building my own version of the digital wo
 
 <details>
   <summary><h3>Current progress and journey</h3></summary>
-  Currently working on my personal project learning NodeJS, MongoDB, Typescript, EJS and some other related miscellaneous. After finishing it, my next plan is to learn React on a new project.
+  Currently working on my big personal project learning React, NextJS and Postgre.
 </details>
 
 #

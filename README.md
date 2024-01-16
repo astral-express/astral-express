@@ -24,6 +24,7 @@ I am a junior full-stack web developer building my own version of the digital wo
   <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D.svg?logo=node.js&logoColor=white"></a>
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white"></a>
+  <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=white"></a>
   <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
   <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
 </p>
@@ -43,6 +44,7 @@ I am a junior full-stack web developer building my own version of the digital wo
 ### Databases and Cloud hosting services
 <p>
   <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F.svg?logo=mysql&logoColor=white"></a>
+  <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-4169E1.svg?logo=postgresql&logoColor=white"></a>
   <a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-4ea94b.svg?logo=mongodb&logoColor=white"></a>
   <a href="#"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-100000?&logo=github&logoColor=white"></a>
 </p>

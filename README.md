@@ -79,7 +79,7 @@ I am a junior full-stack web developer building my own version of the digital wo
 
 <details>
   <summary><h3>Current progress and journey</h3></summary>
-  Currently working on a project learning React, NextJS and PostgreSQL.
+  Currently working and making bugs on a project learning React, NextJS and PostgreSQL.
 </details>
 
 #

@@ -1,4 +1,5 @@
-<!-- # About me
+<!--
+# About me
 
 **`Junior Digital Craftsman`** -->
 
@@ -26,6 +27,7 @@
   <a href="#"><img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"></a>
   <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
+  <a href="#"><img alt="C" src="https://img.shields.io/badge/C-00599C?logo=c&logoColor=white"></a>
 </p>
 
 #
@@ -38,6 +40,7 @@
   <a href="#"><img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?&logo=tailwind-css&logoColor=white"></a>
   <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white"></a>
   <a href="#"><img alt="PHPUnit" src="https://custom-icon-badges.demolab.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white"></a>
+  <a href="#"><img alt="Svelte" src="https://img.shields.io/badge/svelte-%23f1413d.svg?&logo=svelte&logoColor=white"></a>
 </p>
 
 #
@@ -76,7 +79,8 @@
 
 ---
 
-<!-- <details>
+<!-- 
+<details>
   <summary><h3>Current progress and journey</h3></summary>
   Currently working and making bugs on a project learning React, NextJS and PostgreSQL.
 </details> 

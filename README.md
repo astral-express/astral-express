@@ -1,10 +1,11 @@
-# About me
+<!-- # About me
 
-**`Junior Digital Craftsman`**
+**`Junior Digital Craftsman`** -->
 
-I am a junior full-stack web developer building my own version of the digital world, one step at the time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With discipline and persistence on daily basis, I endlessly strive to hone my skills and learn new knowledge.
+<!-- I am a junior full-stack web developer building my own version of the digital world, one step at the time. All of my coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. With discipline and persistence on daily basis, I endlessly strive to hone my skills and learn new knowledge.
 
 ---
+-->
 
 ### Personal projects
 <p align="left">
@@ -77,9 +78,9 @@ I am a junior full-stack web developer building my own version of the digital wo
 
 ---
 
-<details>
+<!-- <details>
   <summary><h3>Current progress and journey</h3></summary>
   Currently working and making bugs on a project learning React, NextJS and PostgreSQL.
-</details>
+</details> 
 
-#
+#-->
